@@ -52,3 +52,6 @@ Example
 ## 'Assigned To' mapping 
 you could 'convert' the 'assigned_to' field in redmine issue to github issues. to do this create a YAML (http://www.yaml.org/) file and add option -u to the commands
 there is example of users.yml provided in this repository
+
+> [!Note]hoge
+> hogehoge
